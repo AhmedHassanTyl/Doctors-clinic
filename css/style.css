@@ -1,0 +1,15 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.navbar-toggler:focus {
+  box-shadow: none;
+}
+.home {
+  padding-top: 86px;
+  height: 100vh;
+}
+.active {
+  text-decoration: none;
+  color: #fd7569;
+  padding: 0.5rem 1rem;
+}
